@@ -23,7 +23,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/TcM1911/r2g2"
+	"github.com/lcashdol/r2g2"
 	"github.com/matryer/is"
 )
 
